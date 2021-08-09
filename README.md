@@ -13,8 +13,6 @@ This project is related to a general store management system.
 9. Return order within one day
 10. Alert for Out of stock
 
-** All the Other details are available in 'project doc.pdf'
-
 ## Setup-
 Setup related all the informations are in setup.txt
 
